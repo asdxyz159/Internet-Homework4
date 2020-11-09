@@ -1,6 +1,35 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/asdxyz159/Internet-Homework4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/asdxyz159/Internet<style>
+#header {height:150px;background-image:url("image.jpg");background-repeat:no-repeat;background-size:cover;padding:1em}
+.column {float: left; width: 50%; height: 400px; text-align: center;}
+#footer {clear:both;height:75px;background-color:#f9c81e;text-align:center; color:#262673;padding:1em}
+</style>
+<body>
+<div id="header">
+<h1 style="font-style: italic; text-align:center;">台東觀光夜市</h1>
+</div>
+<div class="rowspan"><h1>背景</h1><p>   臺東市正氣路鄰近中央市場（臺東市第一公有零售市場）一帶為 水果攤販集中區，為整頓該區域雜亂的攤販區，臺東縣政府於2005年底開始進行改造計畫，首先編列新臺幣950萬元進行攤販區的改建工程，2007年再編列200萬元興建露天停車場，以及10萬元興建流動廁所，隔年再度編列400萬元進行後續改造計畫。然而正氣路水果街改造計畫實際成效不彰，不僅停車場使用率低，流動廁所設置位置也不容易讓人找到，再者新建完工的水果街攤販區，仍有多個攤位並未有攤販進駐而呈現低迷狀態。</p></div>
+<h2>夜市成立</h2><p>2010年7月16日起臺東觀光夜市開始為期4天的試營運作業，總計試賣時間為10月16日至17日以及10月23日至24日。期間為增加觀光夜市的特色，縣長黃健庭持續對外招募攤商加入，甚至還有要求延長觀光夜市路段的要求。2010年7月30日臺東觀光夜市正式開幕，營運時間為每週三、週五，以及週六等三天的晚間五時三十分至十一時。當晚臺東縣政府也特地於中山路與正氣路口舉辦臺東觀光夜市開幕記者會與晚會活動。
+2010年10月14日臺東觀光夜市調整營業時間為每週四至週六三天晚間五時營業至晚間十一時，並且臺東縣政府輔導臺東觀光夜市管理委員會正式成立，在此之後觀光夜市轉交由自治委員會負責管理營運。11月25日臺東縣政府評鑑作業展開，以求達到提昇觀光夜市品質之效果。
+2011年3月19日臺東觀光夜市經過半年正式營運後，正氣路靠中山路側的夜市攤販趨於穩定，不過正氣路靠博愛路側則有攤販生意不佳的狀況，加上觀光夜市進入秋冬季開始出現營運疲軟的現象，對此臺東縣政府除了自當日起至4月20日再度對外招募攤商外，也計畫街頭藝人表演活動與伴手禮美食活動等拉抬觀光夜市的人氣。
+2018年4月入口網站蕃薯藤針對臺灣各處景點問題進行一系列報導，並於網路上舉辦最爛夜市票選活動，總票數1,248票的活動中臺東</p>
+
+
+
+<div class="rowspan"><h1>開放時間</h1><p>星期日：休息
+                  星期一：休息
+                  星期二：休息
+                  星期三：休息
+                  星期四：17:00 – 23:00
+                  星期五：17:00 – 23:00
+                  星期六：17:00 – 23:00</p></div>
+<div id="footer">
+<h1>台東大學知本校區-->臺東轉運站-->步行-->台東觀光夜市r</h1><picture>url("bus.jpg"),url("map.jpg")</picture>
+</div>
+</body>
+
+-Homework4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
